@@ -1,0 +1,6 @@
+[submodule "hello-js-action-moisesPC"]
+	path = hello-js-action-moisesPC
+	url = https://github.com/ULL-ESIT-PL-2021/hello-js-action-moisesPC.git
+[submodule "hello-js-action-use-moisesPC"]
+	path = hello-js-action-use-moisesPC
+	url = https://github.com/ULL-ESIT-PL-2021/hello-js-action-use-moisesPC.git
