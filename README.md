@@ -3,8 +3,9 @@
 En esta práctica realicé los siguientes ejercicios:
 
 **1.** Crear una acción de GitHub que:
-    * Imprime Hola ***nombre*** por pantalla
-    * Imprime la hora utilizando uno de los módulos de [action/toolkit](https://github.com/actions/toolkit).
+
+ * Imprime Hola ***nombre*** por pantalla
+ * Imprime la hora utilizando uno de los módulos de [action/toolkit](https://github.com/actions/toolkit).
 
 Para ello, primero cloné mi repositorio (https://github.com/ULL-ESIT-PL-2021/hello-js-action-moisesPC), y luego le añadí el fichero **action.yml**, que contiene los metadatos de nuestra acción:
 ```
